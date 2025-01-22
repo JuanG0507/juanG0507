@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Juan Jose </h1>
 
-<!--
-**JuanG0507/juanG0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Ingeniero de software</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 Actualmente me encuentro estudiando Ingenieria de Software</a>
+
+- 🌱 Aprendiendo Java, c#, JavaScript, HTML, CSS, Python, Unity
+
+- 🤝 I’m available for freelancing.
+
+- 📫 How to reach me **juanjose200013@gmail.com**
+
+- 📄 Know about my experiences 
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/juan-jose-gutierrez-5b166b252/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/JuanG0507">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/gutierrez_0710/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+ </div>
+
+</p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
