@@ -29,12 +29,15 @@
 
 </p>
 
-### Blogs posts
+### Proyectos
 
 <!-- BLOG-POST-LIST:START -->
 https://github.com/JuanG0507/final3.git
+<br>
 https://github.com/devcrxs/FlappyBird.git
 <!-- BLOG-POST-LIST:END -->
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
