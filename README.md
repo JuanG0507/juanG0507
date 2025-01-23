@@ -8,9 +8,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente me encuentro estudiando Ingenieria de Software</a>
+- 🔭 I am doing a degree in Software Development.
 
-- 🌱 Aprendiendo Java, c#, JavaScript, HTML, CSS, Python, Unity
+- 🌱 Knowledge in Java, c#, JavaScript, HTML, CSS, Python, Unity
 
 - 🤝 I’m available for freelancing.
 
@@ -29,7 +29,7 @@
 
 </p>
 
-### Proyectos
+### My projects
 
 <!-- BLOG-POST-LIST:START -->
 https://github.com/JuanG0507/final3.git
