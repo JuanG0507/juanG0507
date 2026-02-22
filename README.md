@@ -32,9 +32,8 @@
 ### My projects
 
 <!-- BLOG-POST-LIST:START -->
-https://github.com/JuanG0507/final3.git
 <br>
-https://github.com/devcrxs/FlappyBird.git
+[https://github.com/devcrxs/FlappyBird.git](https://blog-coffee-with-guti.vercel.app/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--horizontal divider(gradiant)-->
