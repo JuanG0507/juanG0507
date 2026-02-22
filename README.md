@@ -33,7 +33,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 <br>
-https://github.com/devcrxs/FlappyBird.git](https://blog-coffee-with-guti.vercel.app/)
+https://blog-coffee-with-guti.vercel.app/
 <!-- BLOG-POST-LIST:END -->
 
 <!--horizontal divider(gradiant)-->
