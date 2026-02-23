@@ -10,7 +10,7 @@
 
 - 🔭 I am doing a degree in Software Development.
 
-- 🌱 Knowledge in Java, c#, JavaScript, HTML, CSS, Python, Unity
+- 🌱 Knowledge in Java, JavaScript, HTML5, CSS3, Python.
 
 - 🤝 I’m available for freelancing.
 
