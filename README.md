@@ -32,6 +32,8 @@
 ### My projects
 
 <!-- BLOG-POST-LIST:START -->
+
+https://web-3-d-store.vercel.app/   
 <br>
 https://blog-coffee-with-guti.vercel.app/
 <!-- BLOG-POST-LIST:END -->
