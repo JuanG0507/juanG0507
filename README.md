@@ -32,10 +32,18 @@
 ### My projects
 
 <!-- BLOG-POST-LIST:START -->
+-Responsive Functional Store in development, suitable for proxiams updates 
+Using HTML5, CSS3, JS, NODE.JS, GIT.
 
 https://store-developers.vercel.app/
 
+-Responsive Functional Blog in development, suitable for proxiams updates 
+Using HTML5, CSS3.
+
 https://web-3-d-store.vercel.app/   
+
+
+-carousel of images with structure in web store in development using JS
 
 https://blog-coffee-with-guti.vercel.app/
 <!-- BLOG-POST-LIST:END -->
