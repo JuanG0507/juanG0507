@@ -40,12 +40,11 @@ https://store-developers.vercel.app/
 -Responsive Functional Blog in development, suitable for proxiams updates 
 Using HTML5, CSS3.
 
-https://web-3-d-store.vercel.app/   
-
-
+https://blog-coffee-with-guti.vercel.app/
+  
 -carousel of images with structure in web store in development using JS
 
-https://blog-coffee-with-guti.vercel.app/
+https://web-3-d-store.vercel.app/ 
 <!-- BLOG-POST-LIST:END -->
 
 <!--horizontal divider(gradiant)-->
