@@ -32,6 +32,11 @@
 ### My projects
 
 <!-- BLOG-POST-LIST:START -->
+-Responsive Functional  page abaut a Festival of Music  for suitable for futurs updates
+Using HTML5, SCSS, JS, NODE.JS, NPM, GIT.
+
+https://festival-musica-nu.vercel.app/
+
 -Responsive Functional Store in development, suitable for proxiams updates 
 Using HTML5, CSS3, JS, NODE.JS, GIT.
 
