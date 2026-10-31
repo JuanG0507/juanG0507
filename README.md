@@ -1,33 +1,59 @@
-# ¡Hola! Soy Juan José Gutiérrez 👋
+<h1 align="center">Hi 👋, I'm Juan Jose </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Ingeniero de software</h3>
 
-**Estudiante de Ingeniería de Software · Desarrollador web en formación**
+<p align="center"><a href="https://juang0507.github.io/">🌐 Ver mi portafolio y proyectos</a></p>
 
-Me interesa crear experiencias web funcionales y aprender construyendo proyectos. Actualmente estoy fortaleciendo mis conocimientos de desarrollo frontend y backend.
+<br>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-## 🌐 Mi portafolio
+- 🔭 I am doing a degree in Software Development.
 
-Conoce más sobre mí y explora mis proyectos: **[juang0507.github.io](https://juang0507.github.io/)**
+- 🌱 Knowledge in Java, JavaScript, HTML5, CSS3, Python.
 
-## 🚀 Proyectos destacados
+- 🤝 I’m available for freelancing.
 
-| Proyecto | Descripción | Enlaces |
-|---|---|---|
-| **Festival de Música** | Sitio adaptable para presentar un festival, su programación y experiencias. | [Demo](https://festival-musica-nu.vercel.app/) · [Código](https://github.com/JuanG0507/festival_musica) |
-| **Store Developers** | Interfaz de tienda en línea con navegación y presentación de productos. | [Demo](https://store-developers.vercel.app/) · [Código](https://github.com/JuanG0507/Store_Developers) |
-| **Blog Coffee with Guti** | Sitio de contenido sobre café, cursos y recetas. | [Demo](https://blog-coffee-with-guti.vercel.app/) · [Código](https://github.com/JuanG0507/blog-coffee-with-guti) |
-| **Web 3D Store** | Carrusel de imágenes para una tienda web, creado para explorar interacción y composición visual. | [Demo](https://web-3-d-store.vercel.app/) · [Código](https://github.com/JuanG0507/WEB_3D_STORE.) |
-| **GUTISTORE · Calculadora** | Aplicación de consola en Python para calcular compras y descuentos. | [Código](https://github.com/JuanG0507/gutistore-calculadora) |
+- 📫 How to reach me **juanjose200013@gmail.com**
 
-## 🧰 Tecnologías
+- 📄 Know about my experiences 
 
-**Java · JavaScript · HTML5 · CSS3 · Python · Node.js · Git**
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/juan-jose-gutierrez-5b166b252/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/JuanG0507">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/gutierrez_0710/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+ </div>
 
-Actualmente aprendiendo **React** y desarrollo backend.
+</p>
 
-## 📬 Contacto
+### My projects
 
-- [LinkedIn](https://www.linkedin.com/in/juan-jose-gutierrez-5b166b252/)
-- Correo: [juanjose200013@gmail.com](mailto:juanjose200013@gmail.com)
-- [GitHub](https://github.com/JuanG0507)
+<!-- BLOG-POST-LIST:START -->
+-Responsive Functional  page abaut a Festival of Music  for suitable for futurs updates
+Using HTML5, SCSS, JS, NODE.JS, NPM, GIT.
 
-Disponible para colaborar en proyectos y seguir aprendiendo.
+https://festival-musica-nu.vercel.app/
+
+-Responsive Functional Store in development, suitable for proxiams updates 
+Using HTML5, CSS3, JS, NODE.JS, GIT.
+
+https://store-developers.vercel.app/
+
+-Responsive Functional Blog in development, suitable for proxiams updates 
+Using HTML5, CSS3.
+
+https://blog-coffee-with-guti.vercel.app/
+  
+-carousel of images with structure in web store in development using JS
+
+https://web-3-d-store.vercel.app/ 
+<!-- BLOG-POST-LIST:END -->
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
