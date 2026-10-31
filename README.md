@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador animado">
 </p>
 
-<h3 align="center">Estudiante de Ingeniería de Software · Desarrollador web en formación</h3>
+<h3 align="center">Ingeniería de Software</h3>
 
 <p align="center">
   <a href="https://juang0507.github.io/"><strong>🌐 Visita mi portafolio y conoce mis proyectos</strong></a>
