@@ -9,18 +9,19 @@
   <a href="https://juang0507.github.io/"><strong>🌐 Visita mi portafolio y conoce mis proyectos</strong></a>
 </p>
 
-<br>
-<a target="_blank" align="center" href="https://juang0507.github.io/">
-  <img align="right" top="500" height="300" width="400" alt="Animación de programación" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🔭 Estoy cursando Ingeniería de Software y aprendiendo mediante proyectos personales y académicos.
 - 🌱 Tecnologías: Java, JavaScript, HTML5, CSS3, Python, Node.js y Git.
 - 📚 Actualmente estoy aprendiendo React y desarrollo backend.
 - 🤝 Estoy disponible para colaborar en proyectos y oportunidades freelance.
 - 📫 Contacto: **[juanjose200013@gmail.com](mailto:juanjose200013@gmail.com)**
 
-<div align="center" class="icons-social" style="margin-left: 10px;">
+<p align="center">
+  <a href="https://juang0507.github.io/">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="225" alt="Animación de programación" border="0" style="display:block; margin: 0 auto; border:0; box-shadow:none;">
+  </a>
+</p>
+
+<div align="center" class="icons-social">
   <a style="margin-left: 10px;" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/juan-jose-gutierrez-5b166b252/">
     <img alt="LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
