@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://juang0507.github.io/">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="225" alt="Animación de programación" border="0" style="display:block; margin: 0 auto; border:0; box-shadow:none;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="225" alt="Animación de programación" border="0" style="display:block; margin:0 auto; border:0;">
   </a>
 </p>
 
